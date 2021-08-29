@@ -52,9 +52,9 @@ theme : https://github.com/Leo-Jo-My/luci-theme-Butterfly
 ```Brach
     #下载源码
     
-    git clone https://github.com/Leo-Jo-My/luci-app-vssr package/luci-app-vssr
+    git clone https://github.com/MoMoBeeGangSter/luci-app-vssr package/luci-app-vssr
     
-    git clone https://github.com/Leo-Jo-My/my package/my  #依赖包
+    git clone https://github.com/MoMoBeeGangSter/my package/my  #依赖包
     
     make menuconfig
     
